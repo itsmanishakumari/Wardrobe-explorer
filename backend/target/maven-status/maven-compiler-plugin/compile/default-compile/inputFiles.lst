@@ -1,0 +1,16 @@
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/AiController.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/AiOutputValidator.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/AiService.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/ApiException.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/ApiExceptionHandler.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/ApiModels.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/Category.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/Garment.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/GarmentController.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/GarmentRepository.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/GarmentService.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/ImageController.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/ImageStorage.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/OllamaClient.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/WardrobeApplication.java
+/Users/manishakumari/Documents/Workspace/Wardrobe explorer/backend/src/main/java/com/wardrobe/WardrobeProperties.java
